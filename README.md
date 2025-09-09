@@ -2,6 +2,12 @@
 
 Rujikorn Rujitanont
 
+## About
+This project demonstrates a TypeScript function `merge` that combines three arrays into a single array sorted in ascending order.  
+- `collection_1` and `collection_3` are sorted ascending  
+- `collection_2` is sorted descending  
+- No `.sort()` is used
+
 1. Clone repo:
 
 ```bash
